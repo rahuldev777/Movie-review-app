@@ -1,0 +1,14 @@
+#bannertext{
+    position: absolute;
+    
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 350px;
+   color: white;
+   margin-top: 150px;
+   font-family: "Cinzel", serif;
+
+}
+
